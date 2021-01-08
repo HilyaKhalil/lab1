@@ -32,3 +32,35 @@ body {
      position: absolute;
      z-index: -1;
 }
+
+.project {
+   font-family: Georgia, 'Times New Roman', Times, serif;
+   font-size: 60px; 
+   margin-left: 20px;
+  
+}
+
+img .firstpic{
+     width: 100px;
+}
+
+h1{
+     font-size: 140px;
+     margin: 0px;
+     font-weight: 300;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+p{
+     font-size: 50px;
+     margin: 0px;
+     font-weight: 300;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+h4{
+     font-size: 50px;
+     margin: 0px;
+     font-weight: 550;
+     font-family: Georgia, 'Times New Roman', Times, serif;
+}
